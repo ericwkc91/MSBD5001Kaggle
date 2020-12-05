@@ -19,6 +19,6 @@ Steps to run the code:
 7. Split into train and validating datasets
 8. Run random forest model
 9. Use grid search and cross validation to tune hyper parameters
-10.Run RF model again using best hyper parameters
-11.Predict the results on test datasets using the trained RF model
-12.Save the result into csv and export it
+10. Run RF model again using best hyper parameters
+11. Predict the results on test datasets using the trained RF model
+12. Save the result into csv and export it
